@@ -28,7 +28,7 @@ This repo contains my solutions to:
 
 ## 🚀 Final Project (coming soon)
 
-I’ll be building a final project that applies what I’ve learned stay tuned! 😄
+I’ll be building a final project that applies what i’ve learned stay tuned! 😄
 
 ---
 
@@ -38,4 +38,10 @@ I’ll be building a final project that applies what I’ve learned stay tuned! 
 📷 [Instagram](https://instagram.com/_ogcz)  
 🌴 [Linktree](https://linktr.ee/ogcz)
 
+## ⚠️ Note
+
+🛑 I do not share official solutions
+✅ All code is written by me and shared to track progress and help others learn
+
+Please **do not copy** this code directly try to solve the problems yourself first
 
