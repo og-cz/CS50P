@@ -18,12 +18,14 @@ static String isEven(int n) {
 ```
 
 important thing in match
--> this one bar ( | )
+# 📝 Python `match` Statement: Why Use `|` Instead of `or`
 
-🧬 Technical intuition:
+- `|` in `case` statements is used for **pattern matching**, not boolean logic.
+- It means: **match any of these values**.
+- `or` is a **boolean operator** that returns the **first truthy value**, not multiple patterns.
 
-> ( | ) is part of Python's Structural Pattern Matching introduced in Python 3.10.
-
-It's inspired by functional languages like Haskell and Rust, where | is commonly used for pattern alternation.
-
-It's not an expression that evaluates to a boolean, it's declarative pattern logic.
+## ✅ Correct:
+```python
+match name:
+    case "harry" | "hermione" | "ron":
+        print("gryffindor")
