@@ -218,15 +218,6 @@ Definition: An API is a set of rules, protocols, or tools that lets different so
   print(sqrt(25))  # Output: 5.0
   ```
 
-- **libraries** → collection of modules/packages providing functionality
-
-  ```python
-  # requests is a library
-  import requests
-  response = requests.get("https://api.github.com")
-  print(response.status_code)
-  ```
-
 - **modules** → single Python file (`.py`) containing code
 
   ```python
@@ -235,14 +226,37 @@ Definition: An API is a set of rules, protocols, or tools that lets different so
       print("Hello!")
   ```
 
-- **packages** → folder of modules with `__init__.py`
+- **libraries** → collection of modules/packages providing functionality
+  Example: NumPy is a library, it contains many modules like numpy.linalg, numpy.fft, etc.
 
-  ```text
-  mypackage/
-    __init__.py
-    module1.py
-    module2.py
+  ```python
+  # requests is a library
+  import requests
+  response = requests.get("https://api.github.com")
+  print(response.status_code)
   ```
+
+- **packages** → A package is a folder containing modules and a special file **init**.py.
+
+The **init**.py file tells Python “this folder is a package” and can also run initialization code.
+
+Think of a package as a library that has a folder structure, organizing modules neatly.
+
+```python
+mypackage/
+│
+├─ __init__.py       # marks it as a package
+├─ module1.py
+├─ module2.py
+└─ subpackage/
+    ├─ __init__.py
+    └─ module3.py
+
+then you can do:
+
+import mypackage.module1
+from mypackage.subpackage import module3
+```
 
 - **PyPI** → Python Package Index, repository of third-party packages
 
