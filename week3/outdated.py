@@ -41,7 +41,7 @@ def outdated():
                 d = d.replace(",", "")
                 month_num = month.index(m) + 1
 
-                if 1 <= int(m) <= 12 and 1 <= int(d) <= 31:
+                if 1 <= int(month_num) <= 12 and 1 <= int(d) <= 31:
                     m = str(month_num).zfill(2)
                     d = d.zfill(2)
                     y = y.zfill(4)
