@@ -91,6 +91,12 @@ sys.argv → access command-line arguments
 sys.exit() → stop a program
 sys.path → show paths where Python looks for modules
 
+Non-zero exit -> exiting the program with error
+
+- sys.exit(0) → Exit successfully (✅ all good).
+- sys.exit(1) → Exit with error (❌ something went wrong).
+  Think of it like a thumbs-up (0) or thumbs-down (1 or other non-zero) signal your program leaves behind when it stops.
+
 #### sys.argv
 
 - argument vector basically just list of the all the word that human have prompt before it they had entered
@@ -307,3 +313,12 @@ from mypackage.subpackage import module3
   import mylib
   mylib.hello("David")  # Output: hello, David
   ```
+
+### Sys.exit()
+
+Non-zero exit -> exiting the program with error
+
+- sys.exit(0) → Exit successfully (✅ all good).
+- sys.exit(1) → Exit with error (❌ something went wrong).
+
+Think of it like a thumbs-up (0) or thumbs-down (1 or other non-zero) signal your program leaves behind when it stops.
