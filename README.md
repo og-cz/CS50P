@@ -1,5 +1,5 @@
 # CS50P 
-#### Introduction to Programming with Python
+### Introduction to Programming with Python
 
 Welcome to my journey through [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/) a course offered by Harvard University, designed to teach the fundamentals of programming using Python.
 
@@ -9,7 +9,6 @@ Welcome to my journey through [CS50’s Introduction to Programming with Python]
 - **Labs**
 - My own **final project**
 - Personal **notes** for each topic
-
 
 ##### What I’m Learning
 
@@ -22,6 +21,12 @@ Welcome to my journey through [CS50’s Introduction to Programming with Python]
 
 _*This repository serves as my personal storage and practice space for the Harvard CS50’s Introduction to Programming with Python (CS50P) course. All problem sets, exercises, and experiments related to the course will be stored here.*_
 <!--
+
+
+
+
+
+
 # 🐍 CS50P – Introduction to Programming with Python
 
 Welcome to my journey through [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/) – a beginner-friendly but rigorous course offered by Harvard University, designed to teach the fundamentals of programming using Python.
