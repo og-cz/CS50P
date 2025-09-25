@@ -1,6 +1,5 @@
 # CS50P 
-#### *CS50's Introduction to Programming with Python*
-Welcome to my journey through [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/) a course offered by Harvard University, designed to teach the fundamentals of programming using Python.
+[CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/)
 
 This repo contains my solutions to:
 - **problem sets**
