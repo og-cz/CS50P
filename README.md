@@ -1,23 +1,12 @@
 # CS50P 
-### Introduction to Programming with Python
-
+#### *CS50's Introduction to Programming with Python*
 Welcome to my journey through [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/) a course offered by Harvard University, designed to teach the fundamentals of programming using Python.
 
-##### This repo contains my solutions to:
-
+This repo contains my solutions to:
 - **problem sets**
 - **Labs**
 - My own **final project**
 - Personal **notes** for each topic
-
-##### What I’m Learning
-
-- Python syntax, variables, loops, conditionals
-- Functions, arguments, return values
-- Exceptions, file handling, libraries
-- Regex, decorators, data structures
-- Clean code, debugging, testing
-- Real-world applications of Python
 
 _*This repository serves as my personal storage and practice space for the Harvard CS50’s Introduction to Programming with Python (CS50P) course. All problem sets, exercises, and experiments related to the course will be stored here.*_
 <!--
