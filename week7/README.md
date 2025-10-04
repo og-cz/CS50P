@@ -1,4 +1,21 @@
-# regular expressions
+# CS50p Week 7
+
+- [Regular expressions](#regular-expressions)
+- [re library](#re-library)
+- [Regular expression patterns](#regular-expression-patterns)
+  - [Logic](#logic)
+- [Special sequence](#special-sequence)
+- [Matching start and end](#matching-start-and-end)
+- [Set of characters](#set-of-characters)
+- [Character classes](#character-classes)
+- [Flags](#flags)
+- [Groups](#groups)
+- [Capturing groups](#capturing-groups)
+- [Walrus operator](#walrus-operator)
+- [re.sub](#re.sub)
+- [re.search](#re.search)
+
+### regular expressions
 
 - regexes - its literally just a pattern to match some kind of data, if we typed and email we must validate that we did type and email
 - we must create a pattern to match with

@@ -1,64 +1,16 @@
-# CS50P 
+# CS50p
+
 [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/)
 
-This repo contains my solutions to:
-- **problem sets**
-- **Labs**
-- My own **final project**
-- Personal **notes** for each topic
+- [Week 0 - Command Line, Python Basics](./week0/README.md)
+- [Week 1 - Basics, Strings, Conditionals](./week1/README.md)
+- [Week 2 - Control Flow, Loops](./wesek2/README.md)
+- [Week 3 - Functions, File I/O](./week3/README.md)
+- [Week 4 - Lists, Dictionaries, JSON](./week4/README.md)
+- [Week 5 - Testing, Pytest](./week5/README.md)
+- [Week 6 - Files, CSV, Exceptions](./week6/README.md)
+- [Week 7 - Regular Expressions](./week7/README.md)
+- [Week 8 - OOP, Classes](./week8/README.md)
+- [Week 9 - Advanced Topics, Et Cetera](./week9/README.md)
 
 _*This repository serves as my personal storage and practice space for the Harvard CS50’s Introduction to Programming with Python (CS50P) course. All problem sets, exercises, and experiments related to the course will be stored here.*_
-<!--
-
-
-
-
-
-
-# 🐍 CS50P – Introduction to Programming with Python
-
-Welcome to my journey through [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/) – a beginner-friendly but rigorous course offered by Harvard University, designed to teach the fundamentals of programming using Python.
-
----
-
-## 📚 Course Overview
-
-This repo contains my solutions to:
-
-- ✅ Weekly **problem sets**
-- 🧪 **Labs**
-- 🚀 My own **final project**
-- 📝 Personal **notes** for each topic
-
----
-
-## 🧠 What I’m Learning
-
-- Python syntax, variables, loops, conditionals
-- Functions, arguments, return values
-- Exceptions, file handling, libraries
-- Regex, decorators, data structures
-- Clean code, debugging, testing
-- Real-world applications of Python
-
----
-
-## 🚀 Final Project (coming soon)
-
-I’ll be building a final project that applies what i’ve learned stay tuned! 😄
-
----
-
-## 🧑‍💻 About Me
-
-👤 **ogcz**  
-📷 [Instagram](https://instagram.com/_ogcz)  
-🌴 [Linktree](https://linktr.ee/ogcz)
-
-## ⚠️ Note
-
-🛑 I do not share official solutions
-✅ All code is written by me and shared to track progress and help others learn
-
-Please **do not copy** this code directly try to solve the problems yourself first
---!>

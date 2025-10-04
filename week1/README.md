@@ -1,3 +1,5 @@
+# CS50p Week 1
+
 ### takeaways
 
 ```python
@@ -18,6 +20,7 @@ static String isEven(int n) {
 ```
 
 important thing in match
+
 # 📝 Python `match` Statement: Why Use `|` Instead of `or`
 
 - `|` in `case` statements is used for **pattern matching**, not boolean logic.
@@ -25,7 +28,9 @@ important thing in match
 - `or` is a **boolean operator** that returns the **first truthy value**, not multiple patterns.
 
 ## ✅ Correct:
+
 ```python
 match name:
     case "harry" | "hermione" | "ron":
         print("gryffindor")
+```

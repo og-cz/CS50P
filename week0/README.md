@@ -1,7 +1,7 @@
-## Everything listed above the folder for LECTURES/ is a problem set solutions
+# CS50p Week 0
 
-### 📘 Takeaways
-   
+### Takeaways
+
 Since I already have experience with Java, I’ve realized that the concept of **side effects** in Python is quite similar to Java especially when modifying an object (like an array) inside a function.
 
 ```java
