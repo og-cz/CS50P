@@ -1,4 +1,6 @@
-# file I/O
+# CS50p Week 6
+
+### file I/O
 
 so everything we do or program we written stores eveything in memory on runtime but anything we exit after it its lost but with file we can hang on to data long term so, File I/O in context of programming is read from and write to save information sa files itself
 
@@ -204,9 +206,10 @@ Each row you give it (as a list/tuple) will become a line in the CSV.
 ### csv.DictWriter
 
 It’s part of Python’s built-in csv library.
+
 - While csv.writer writes lists/tuples into a CSV file…
 - csv.DictWriter writes dictionaries into a CSV file.
-You give it a dictionary, it looks at the keys and writes values in the right columns.
+  You give it a dictionary, it looks at the keys and writes values in the right columns.
 
 ### pillow library
 

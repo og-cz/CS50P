@@ -1,3 +1,25 @@
+# CS50p Week 8
+
+- [OOP](#oop)
+- [tuple](#tuple)
+- [dictionary](#dictionary)
+- [summary](#summary)
+- [classes](#classes)
+- [objects](#objects)
+- [instance variables and attribtues](#instance-variables-and-attribtues)
+- [methods](#methods)
+- [\_\_init\_\_](#__init__)
+- [raise](#raise)
+- [string method \_\_str\_\_](#string-method-__str__)
+- [properties](#properties)
+  - [decorators](#decorators)
+  - [@property](#property)
+- [getter and setter in python explained](#getter-and-setter-in-python-explained)
+- [types and classes](#types-and-classes)
+- [class methods](#class-methods)
+- [inheritance](#inheritance)
+- [operator overloading](#operator-overloading)
+
 ### OOP
 
 - object oriented programming

@@ -1,4 +1,30 @@
-## Libraries
+# CS50p Week 4
+
+- [Libraries](#libraries)
+  - [modules](#modules)
+  - [import](#import)
+  - [from](#from)
+  - [random library's functions](#random-librarys-functions)
+    - [randint](#randint)
+    - [shuffle](#shuffle)
+  - [statistics libraries](#statistics-libraries)
+- [command-line arguments](#command-line-arguments)
+  - [sys](#sys)
+  - [sys.argv](#sysargv)
+  - [sys.exit](#sysexit)
+- [slices](#slices)
+- [packages](#packages)
+  - [pyPI](#pypi)
+  - [cowsay](#cowsay)
+  - [pip](#pip)
+- [APIs, request, JSON](#apis-request-json)
+  - [APIs](#apis)
+  - [request](#request)
+  - [JSON](#json)
+- [RECAP OF THE IMPORTANT THINGS TO UNDERSTAND!](#recap-of-the-important-things-to-understand)
+- [Sys.exit()](#sysexit-1)
+
+### Libraries
 
 - library is a files of code that other people have written that we can use on our program or we created that we can use so on
 - A library is a collection of modules that provide related functionality.

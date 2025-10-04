@@ -1,0 +1,14 @@
+// ...existing code...
+.mypy_cache
+{ changed code }
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+venv/
+env/
+build/
+dist/
+{ changed code }
+// ...existing code...

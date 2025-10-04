@@ -1,3 +1,13 @@
+# CS50p Week 3
+
+- [Syntax Error](#syntax-error)
+- [Value Error](#value-error)
+- [`try`](#try)
+- [`except`](#except)
+- [Name Error](#name-error)
+- [else](#else)
+- [pass](#pass)
+
 ### Syntax Error
 
 ```python
