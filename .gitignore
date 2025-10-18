@@ -1,6 +1,4 @@
-// ...existing code...
 .mypy_cache
-{ changed code }
 __pycache__/
 *.py[cod]
 .pytest_cache/
@@ -10,5 +8,3 @@ venv/
 env/
 build/
 dist/
-{ changed code }
-// ...existing code...
