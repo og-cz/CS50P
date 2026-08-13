@@ -14,3 +14,6 @@
 - [Week 9 - Advanced Topics, Et Cetera](./week9/README.md)
 
 _*This repository serves as my personal storage and practice space for the Harvard CS50’s Introduction to Programming with Python (CS50P) course. All problem sets, exercises, and experiments related to the course will be stored here.*_
+
+### Certificate
+<img src="certificate.png" alt="certificate" width="75%">
