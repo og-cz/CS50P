@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Essay draft",
+    "course": "English",
+    "due_date": "2026-09-01",
+    "priority": "high",
+    "completed": false,
+    "created_at": "2026-08-13T09:02:23"
+  }
+]

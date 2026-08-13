@@ -1,0 +1,5 @@
+# StudyTrack has no third-party dependencies for the application itself —
+# it only uses Python's standard library (json, datetime, pathlib, sys).
+#
+# The line below is only needed if you want to run the test suite locally.
+pytest
